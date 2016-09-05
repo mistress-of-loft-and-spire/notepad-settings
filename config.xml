@@ -82,7 +82,7 @@
         <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="no">yes</GUIConfig>
         <GUIConfig name="DetectEncoding">yes</GUIConfig>
         <GUIConfig name="MenuBar">show</GUIConfig>
-        <GUIConfig name="Caret" width="1" blinkRate="250" />
+        <GUIConfig name="Caret" width="3" blinkRate="707" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="yes" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
